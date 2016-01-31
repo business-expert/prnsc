@@ -1,0 +1,1 @@
+2013-10-25 03:16:33 || database.php || 42 || Query Error -- INSERT INTO race_type (`arm_race_id`,`arm_athlete_id`,`race_type_date`) VALUES ('1','17','2013-10-25 03:16:33'); :: Unknown column 'arm_race_id' in 'field list' 

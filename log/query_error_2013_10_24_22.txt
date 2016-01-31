@@ -1,0 +1,2 @@
+2013-10-24 22:12:09 || database.php || 42 || Query Error -- SELECT id FROM race_type WHERE race_title LIKE '%asdfasdf'% :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%' at line 1 
+2013-10-24 22:40:22 || database.php || 42 || Query Error -- SELECT id,race_title,race_desc,race_type_date FROM race_type WHERE race_type.`name` like '%100%' :: Unknown column 'race_type.name' in 'where clause' 

@@ -1,0 +1,2 @@
+2013-10-18 08:02:17 || database.php || 24 || Host Connect Error --  :: Access denied for user 'root'@'localhost' (using password: YES) 
+2013-10-18 08:03:33 || database.php || 24 || Host Connect Error --  :: Access denied for user 'root'@'localhost' (using password: YES) 

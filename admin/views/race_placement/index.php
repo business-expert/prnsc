@@ -1,0 +1,1 @@
+<?=include_once('race_placement.php');?>

@@ -1,0 +1,2 @@
+2013-10-19 07:38:11 || database.php || 42 || Query Error -- SELECT A.user_role,B.module_name,A.module_access FROM access_role as A LEFT JOIN module_access_property as B ON B.id = A.module WHERE A.user_role = '1' :: Table 'pnscr.access_role' doesn't exist 
+2013-10-19 07:42:51 || database.php || 42 || Query Error -- SELECT A.user_role,B.module_name,A.module_access FROM access_role as A LEFT JOIN module_access_property as B ON B.id = A.module WHERE A.user_role = '1' :: Table 'pnscr.access_role' doesn't exist 

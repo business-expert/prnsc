@@ -1,0 +1,3 @@
+2013-10-18 00:21:05 || database.php || 42 || Query Error -- SELECT * FROM user_role where id='1' :: Table 'pnscr.user_role' doesn't exist 
+2013-10-18 00:21:48 || database.php || 42 || Query Error -- SELECT A.user_role,B.module_name,A.module_access FROM access_role as A LEFT JOIN module_access_property as B ON B.id = A.module WHERE A.user_role = '1' :: Table 'pnscr.access_role' doesn't exist 
+2013-10-18 00:23:48 || database.php || 42 || Query Error -- SELECT count(*) as total FROM members :: Table 'pnscr.members' doesn't exist 

@@ -1,0 +1,1 @@
+2013-11-30 11:11:11 || database.php || 42 || Query Error -- DELETE FROM race_picks WHERE race_picks.id NOT IN(,,,,,,,,,) AND race_picks.race_id='' AND race_picks.fan_id='' :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',,,,,,,,) AND race_picks.race_id='' AND race_picks.fan_id=''' at line 1 

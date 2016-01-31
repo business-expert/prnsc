@@ -1,0 +1,1 @@
+2013-10-24 00:38:16 || database.php || 42 || Query Error -- UPDATE event SET WHERE `id` = '1' LIMIT 1 :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '1' LIMIT 1' at line 1 

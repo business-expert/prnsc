@@ -1,0 +1,1 @@
+2013-12-13 15:11:46 || database.php || 42 || Query Error -- SELECT arm_athlete_id,arm_race_id FROM athletics_race_mapping WHERE LOCATE('#22#',arm_athlete_id) > 0 OR (LOCATE('22#',arm_athlete_id) > 0 AND LOCATE('#22#',arm_athlete_id) <= 0) OR (LOCATE('#22',arm_athlete_id) > 0 AND LOCATE('#22#',arm_athlete_id) <= 0) :: Table 'pronsc.athletics_race_mapping' doesn't exist 

@@ -1,0 +1,6 @@
+2013-10-22 23:42:47 || database.php || 42 || Query Error -- SELECT * FROM events WHERE id='3' :: Table 'pronsc.events' doesn't exist 
+2013-10-22 23:43:42 || database.php || 42 || Query Error -- SELECT * FROM events WHERE id='2' :: Table 'pronsc.events' doesn't exist 
+2013-10-22 23:46:04 || database.php || 42 || Query Error -- SELECT e.id,season,name,active,racetype,eventstart,timerforcounter FROM event e LEFT JOIN event_time et ON e.id = et.event_id WHERE A.`name` like '%event i%' :: Unknown column 'A.name' in 'where clause' 
+2013-10-22 23:46:43 || database.php || 42 || Query Error -- SELECT e.id,season,name,active,racetype,eventstart,timerforcounter FROM event e LEFT JOIN event_time et ON e.id = et.event_id WHERE A.`name` like '%Event 1%' :: Unknown column 'A.name' in 'where clause' 
+2013-10-22 23:48:14 || database.php || 42 || Query Error -- SELECT e.id,season,name,active,racetype,eventstart,timerforcounter FROM event e LEFT JOIN event_time et ON e.id = et.event_id WHERE A.`name` like '%fdadsfasdf%' :: Unknown column 'A.name' in 'where clause' 
+2013-10-22 23:51:08 || database.php || 42 || Query Error -- SELECT e.id,season,name,active,racetype,eventstart,timerforcounter FROM event e LEFT JOIN event_time et ON e.id = et.event_id WHERE A.`name` like '%dsfsdf%' :: Unknown column 'A.name' in 'where clause' 

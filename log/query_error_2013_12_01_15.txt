@@ -1,0 +1,1 @@
+2013-12-01 15:02:47 || database.php || 42 || Query Error -- SELECT * FROM athletics_race_mapping :: Table 'pronsc.athletics_race_mapping' doesn't exist 

@@ -1,0 +1,1 @@
+2013-10-23 03:18:26 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date, season_status FROM season WHERE A.`season_title` like '%test update%' :: Unknown column 'A.season_title' in 'where clause' 

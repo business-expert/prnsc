@@ -1,0 +1,1 @@
+2013-12-16 05:24:12 || database.php || 42 || Query Error -- id, cat_title, cat_desc, cat_date, cat_status FROM post_category :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id, cat_title, cat_desc, cat_date, cat_status FROM post_category' at line 1 

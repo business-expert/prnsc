@@ -1,0 +1,10 @@
+2013-10-23 02:32:03 || database.php || 42 || Query Error -- SELECT id season_title season_desc season_date FROM season :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'season_desc season_date FROM season' at line 1 
+2013-10-23 02:32:31 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date FROM season :: Table 'pronsc.season' doesn't exist 
+2013-10-23 02:32:55 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date FROM season :: Table 'pronsc.season' doesn't exist 
+2013-10-23 02:33:13 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date FROM season :: Table 'pronsc.season' doesn't exist 
+2013-10-23 02:33:41 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date FROM season :: Table 'pronsc.season' doesn't exist 
+2013-10-23 02:34:12 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date FROM season :: Table 'pronsc.season' doesn't exist 
+2013-10-23 02:34:30 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date FROM season :: Table 'pronsc.season' doesn't exist 
+2013-10-23 02:34:38 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date FROM season :: Table 'pronsc.season' doesn't exist 
+2013-10-23 02:34:40 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date FROM season :: Table 'pronsc.season' doesn't exist 
+2013-10-23 02:34:52 || database.php || 42 || Query Error -- SELECT id, season_title, season_desc, season_date FROM season :: Table 'pronsc.season' doesn't exist 

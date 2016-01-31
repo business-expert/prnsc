@@ -1,0 +1,125 @@
+.positionCounter
+{
+	display:inline-block;min-width:20px;
+}
+
+
+span.signIncDecr 
+{
+	
+	background:none repeat scroll 0 0 #A6372B;
+	color:#FFFFFF;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: normal;
+	text-decoration: none;
+    width: 100%;
+	padding: 10px;
+}
+
+.currentPad
+{
+	padding:5px;
+	
+}
+
+.hide 
+{
+	display:none;
+}
+
+.show 
+{
+	display:block;
+}
+
+div.heading a 
+{
+	color: #000000;
+    font-family: Impact;
+    font-size: 30px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    line-height: normal;
+    margin: 0 0 10px;
+    padding-bottom: 5px;
+}
+
+
+.commonWhiteBackground
+{
+	-moz-box-sizing: border-box;
+    background: none repeat scroll 0 0 #FFFFFF;
+    padding: 10px 20px;
+   width: auto;
+}
+
+
+.commentForm .row input{
+	height:20px;
+}
+
+.commentForm .row{
+	float:left;
+	width:100%;
+	margin:0;
+	padding:0;
+}
+
+
+
+
+
+
+
+/*STAT Shop After paypal item description CSS*/
+#miniCart{
+                background:#fff;
+                width:100%;
+                box-sizing:border-box;
+                -webkit-box-sizing:border-box;
+                -moz-box-sizing:border-box;
+                padding:10px;
+                display:table;}
+ 
+.small.head.wrap{
+                padding:10px;
+                background:#2c2c2c;
+                color:#fff;
+                font-weight:bold;}
+ 
+.amount{
+                float:right;}
+ 
+#multiitem1 ul{
+                margin:0 0 10px 0;
+                padding:0 0 10px 0;
+                border-bottom:1px solid #ddd;}
+ 
+#multiitem1 ul:last-child{
+                margin:0;}
+ol {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+ 
+.seller1 ul{
+                margin:0;
+                list-style:none;
+                padding:10px;}
+ 
+.wrap.items.totals.item1 > ul{
+                margin:0;
+                padding:0 10px;
+                list-style:none;}
+ 
+.small.heavy{
+                font-weight:bold;
+                margin:0 0 10px 0;}
+ 
+ 
+.grandTotal.amount.highlight {
+    font-weight: bold;
+}
+/*STAT Shop After paypal item description CSS*/

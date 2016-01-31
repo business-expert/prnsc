@@ -1,0 +1,15 @@
+<skin target='6.0' name='SkinName' author='skinAuthor'>
+   <components>
+      <component name='controlbar'>
+         <settings>
+            <setting name='...' value='...' />
+            ...
+         </settings>
+         <elements>
+            <element name='...' src='...' />
+            ...
+         </elements>
+      </component>
+      ...
+   </components>
+</skin>

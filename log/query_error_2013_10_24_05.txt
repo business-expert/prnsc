@@ -1,0 +1,1 @@
+2013-10-24 05:45:07 || database.php || 42 || Query Error -- SELECT admin_email FROM admin WHERE admin_email='anamika@gmail.comd' AND !='20' :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '!='20'' at line 1 

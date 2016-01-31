@@ -1,0 +1,3 @@
+2013-12-02 01:19:11 || database.php || 42 || Query Error --  :: Query was empty 
+2013-12-02 01:19:20 || database.php || 42 || Query Error --  :: Query was empty 
+2013-12-02 01:20:13 || database.php || 42 || Query Error --  :: Query was empty 

@@ -1,0 +1,16 @@
+.img50 {
+		width:50px;
+		height:50px;
+	}		
+.img100 {
+		width:100px;
+		height:100px;
+	}	
+.img150 {
+		width:150px;
+		height:150px;
+	}	
+.img200 {
+		width:200px;
+		height:200px;
+	}		
