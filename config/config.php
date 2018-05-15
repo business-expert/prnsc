@@ -64,10 +64,10 @@ define("CURRENCY","HKD");
 
 define('SMTP_HOST','smtp.gmail.com');      					// sets GMAIL as the SMTP server
 define('SMTP_PORT',465);                   					// set the SMTP port for the GMAIL server
-define('SMTP_USERNAME',"rakesh.r.singh.2013@gmail.com"); 	// GMAIL username
-define('SMTP_PASSWORD',"rakeshrsingh2013");
-define('EMAIL_FROM',"rakesh.r.singh.2013@gmail.com");
-define('EMAIL_FROM_NAME',"AI Club");
+define('SMTP_USERNAME',"panky@gmail.com"); 	// GMAIL username
+define('SMTP_PASSWORD',"panky");
+define('EMAIL_FROM',"panky@gmail.com");
+define('EMAIL_FROM_NAME',"Panky");
 
 define('SITE_SESSION','prscn');
 
